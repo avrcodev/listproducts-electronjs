@@ -1,7 +1,7 @@
 {
   "name": "listproducts-electronjs",
   "version": "1.0.0",
-  "description": "List products @lovedev",
+  "description": "List products @avrcodev",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angelovelandia/listproducts-electronjs.git"
+    "url": "git+https://github.com/avrcodev/listproducts-electronjs.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/angelovelandia/listproducts-electronjs/issues"
+    "url": "https://github.com/avrcodev/listproducts-electronjs/issues"
   },
-  "homepage": "https://github.com/angelovelandia/listproducts-electronjs#readme",
+  "homepage": "https://github.com/avrcodev/listproducts-electronjs#readme",
   "devDependencies": {
     "electron": "^20.1.4"
   },
